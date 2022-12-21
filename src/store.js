@@ -31,7 +31,7 @@ export const store = new Vuex.Store({
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
-                    'X-Api-Key': '8K4YKq2HEWFmvJ5JU4UrWnwf'
+                    'X-Api-Key': 'iLGXZnTMmRAYiEiZZJJmsd3F'
                 },
                 responseType: 'arrayBuffer',
                 body: JSON.stringify({
